@@ -1,3 +1,4 @@
-# pokemon
+# Sources
 
-Bunch of things I might need related to Pokemon
+- backgrounds : [hyper-pokemon](https://github.com/klaussinani/hyper-pokemon)
+- sprites: [Showdown](https://play.pokemonshowdown.com/)
